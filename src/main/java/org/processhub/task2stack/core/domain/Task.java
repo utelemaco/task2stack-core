@@ -1,9 +1,5 @@
 package org.processhub.task2stack.core.domain;
 
-import java.util.List;
-
-import org.processhub.task2stack.core.Suggestion;
-
 public class Task {
 
 	private int id;

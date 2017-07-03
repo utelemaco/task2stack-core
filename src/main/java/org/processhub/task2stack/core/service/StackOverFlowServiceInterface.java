@@ -1,4 +1,4 @@
-package org.processhub.task2stack.core;
+package org.processhub.task2stack.core.service;
 
 import java.util.List;
 
