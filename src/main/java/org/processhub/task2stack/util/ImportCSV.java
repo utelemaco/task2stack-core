@@ -9,7 +9,7 @@ import java.util.List;
 
 import org.processhub.task2stack.core.LevenshteinDistanceStrategy;
 import org.processhub.task2stack.core.Suggestion;
-import org.processhub.task2stack.core.Task;
+import org.processhub.task2stack.core.domain.Task;
 
 public class ImportCSV {
 	

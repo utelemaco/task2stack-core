@@ -1,6 +1,6 @@
-package org.processhub.task2stack.core;
+package org.processhub.task2stack.core.domain;
 
-public class StackOverFlowItem {
+public class Stack {
 	
 	private String id;
 	private String description;
